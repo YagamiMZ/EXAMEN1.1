@@ -1,0 +1,37 @@
+.fondo{
+   background: linear-gradient(to bottom, red, white);
+}
+
+.textoInfo1{
+    background-color: red;
+}
+
+.cabezera{
+    display: flex;
+}
+
+div .imagenF{
+    margin-left: 30px;
+    width: 1800px;
+    height: 500px;
+    
+}
+div .logo{
+    background-color: red;
+}
+.subT{
+    text-align: center;
+}
+.textoInfo{
+    background-color:blue;
+}
+
+.Destacados{
+    display: flex;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
